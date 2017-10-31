@@ -1,5 +1,5 @@
 '''
-Selection sort algorithm implementation in Java
+Selection sort algorithm implementation in Python
 Space complexity = O(1)
 Time complexity = O(n^n)
 '''
