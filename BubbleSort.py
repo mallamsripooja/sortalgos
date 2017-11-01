@@ -1,7 +1,7 @@
 '''
 Bubble sort algorithm implementation in Python
 Space complexity = O(1)
-Time complexity = O(n^n)
+Time complexity = O(n*n)
 '''
 def bubblesort(arr):
     for i in range(len(arr)-1):
