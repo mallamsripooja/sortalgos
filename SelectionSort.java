@@ -1,7 +1,7 @@
 /*
 Selection sort algorithm implementation in Java
 Space complexity = O(1)
-Time complexity = O(n^n)
+Time complexity = O(n*n)
 */
 public class SelectionSort
 {
