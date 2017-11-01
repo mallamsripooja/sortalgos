@@ -1,3 +1,8 @@
+/*
+Implementation of merge sort algorithm in Java
+Space complexity = O(n)
+Time complexity = O(nlogn)
+*/
 public class MergeSort
 {
 
